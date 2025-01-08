@@ -7,6 +7,12 @@ import org.junit.Test;
 import QA_HW4.Triangle_classification;
 import QA_HW4.Triangle_classification.Triangle_Types;
 
+
+/**
+ * Fadi Marjieh - 312312861
+ * Steve Evtushenko - 315914671
+ */
+
 public class Test_Triangle_Classification {
 	
 	Triangle_classification triangle = new Triangle_classification();
