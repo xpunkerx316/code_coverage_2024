@@ -1,5 +1,10 @@
 package QA_HW4;
 
+/**
+ * Fadi Marjieh - 312312861
+ * Steve Evtushenko - 315914671
+ */
+
 public class Triangle_classification {
 	
 	enum Triangle_Types {
